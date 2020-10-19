@@ -38,10 +38,11 @@ namespace PhotoGallery
             if(i==1)
             {
                 Label1.Text = "Added Successfully";
-                pName = "";
-                aName = "";
+                photoName.Text = " ";
+                artistName.Text=" ";
             }
-          
+            
+
 
         }
 

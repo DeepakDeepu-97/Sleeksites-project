@@ -36,7 +36,7 @@
         <h1><u>Image Gallery:</u></h1>
         <div>
         
-        <asp:DataList ID="DataList1" runat="server" DataSourceID="SqlDataSource1" RepeatColumns="6" RepeatDirection="Horizontal" Width="1105px">
+        <asp:DataList ID="DataList1" runat="server" DataSourceID="SqlDataSource1" RepeatColumns="4" RepeatDirection="Horizontal" Width="1105px">
             <ItemTemplate>
                 <table class="auto-style1">
                     <tr>
